@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getters en Setters Bronze", "Getters en Setters Bronze\Getters en Setters Bronze.csproj", "{814E8C0F-775D-46C4-B0D3-881FE121C17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814E8C0F-775D-46C4-B0D3-881FE121C17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814E8C0F-775D-46C4-B0D3-881FE121C17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814E8C0F-775D-46C4-B0D3-881FE121C17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814E8C0F-775D-46C4-B0D3-881FE121C17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECC4E85-C89B-4229-A23C-82788CDBE20B}
+	EndGlobalSection
+EndGlobal
